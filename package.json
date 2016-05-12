@@ -1,0 +1,30 @@
+{
+  "name": "obj",
+  "version": "0.1.0",
+  "description": "A small helper that simplifies working with Objects in JavaScript",
+  "main": "obj.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legitco/Obj.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "helper",
+    "library",
+    "microlibrary",
+    "micro-library"
+  ],
+  "author": "Simeon Vincent (@dotproto)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/legitco/Obj.js/issues"
+  },
+  "homepage": "https://github.com/legitco/Obj.js#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
